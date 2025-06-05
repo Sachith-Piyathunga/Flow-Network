@@ -26,3 +26,13 @@ A **Java console application** that calculates the **maximum flow** in a directe
 - ├── resources/
 - │ └── ladder_1.txt
 - └── Main.java
+
+---
+
+## 📥 Input Format
+
+- The input file defines the flow network:
+
+- <number_of_nodes>
+- <from_node> <to_node> <capacity>
+- <from_node> <to_node> <capacity>
