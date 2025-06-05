@@ -1,2 +1,17 @@
-# Flow-Network
-🚀 Java application to calculate maximum flow in a directed graph using the Ford-Fulkerson algorithm. Includes file-based network parsing, graph modeling, and step-by-step logging of flow augmentation.
+# 🔗 Maximum Flow Network Solver
+
+A **Java console application** that calculates the **maximum flow** in a directed flow network using the **Ford-Fulkerson algorithm**. The project features a modular design including custom classes for parsing network data from files, graph construction, and algorithm execution with step-by-step logging.
+
+---
+
+## 📌 Features
+
+- ✅ Computes maximum flow using **Ford-Fulkerson** with **BFS-based augmenting paths**
+- 📂 Supports **custom input files** for defining flow networks
+- 🧠 **Modular design**: clean separation of parser, model, and algorithm logic
+- 📋 Logs each step of **flow augmentation** for visualization or debugging
+
+---
+
+## 📁 File Structure
+
