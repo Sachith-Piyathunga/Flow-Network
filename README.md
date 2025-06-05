@@ -36,3 +36,12 @@ A **Java console application** that calculates the **maximum flow** in a directe
 - <number_of_nodes>
 - <from_node> <to_node> <capacity>
 - <from_node> <to_node> <capacity>
+
+### 📄 Example (`ladder_1.txt`):
+
+- 4
+- 0 1 3
+- 0 2 2
+- 1 2 5
+- 1 3 2
+- 2 3 3
