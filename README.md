@@ -15,3 +15,14 @@ A **Java console application** that calculates the **maximum flow** in a directe
 
 ## 📁 File Structure
 
+- FlowNetwork/
+- ├── algorithm/
+- │ └── FordFulkerson.java
+- ├── model/
+- │ ├── Graph.java
+- │ └── Edge.java
+- ├── parser/
+- │ └── NetworkParser.java
+- ├── resources/
+- │ └── ladder_1.txt
+- └── Main.java
