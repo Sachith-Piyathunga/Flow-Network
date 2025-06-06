@@ -60,3 +60,11 @@ In this example:
 - Find the minimum capacity on that path (bottleneck).
 - Add this bottleneck to the flow and update both forward and backward (residual) edges.
 - Repeat until no augmenting path exists.
+
+### 🔧 Technologies Used
+
+- Java – Core programming language
+- OOP – Clean separation of concerns across models, algorithms, and parsers
+- File I/O – For reading custom input networks
+- Graph Theory – Directed graph and residual graph logic
+- Collections – Java Lists, Queues for graph traversal
