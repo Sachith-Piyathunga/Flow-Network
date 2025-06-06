@@ -45,3 +45,11 @@ A **Java console application** that calculates the **maximum flow** in a directe
 - 1 2 5
 - 1 3 2
 - 2 3 3
+  
+In this example:
+- There are 4 nodes (numbered 0 to 3).
+- Node `0` is the source.
+- Node `3` is the sink.
+- Edges have associated capacities.
+
+---
