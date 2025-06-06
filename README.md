@@ -54,10 +54,9 @@ In this example:
 
 ---
 
-## 🧪 How to Run the Application
+### How It Works
 
-### ✅ Prerequisites
-
-- Java 8 or higher
-- IDE like **IntelliJ IDEA**, **Eclipse**, or **NetBeans**
-- Alternatively, a command-line JDK
+- Find a path from source to sink with available capacity (residual capacity > 0).
+- Find the minimum capacity on that path (bottleneck).
+- Add this bottleneck to the flow and update both forward and backward (residual) edges.
+- Repeat until no augmenting path exists.
