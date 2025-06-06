@@ -68,3 +68,10 @@ In this example:
 - File I/O – For reading custom input networks
 - Graph Theory – Directed graph and residual graph logic
 - Collections – Java Lists, Queues for graph traversal
+
+### 🎓 Educational Value
+
+- This project is ideal for:
+- Learning graph algorithms
+- Understanding flow networks and residual graphs
+- Exploring real-world applications like network routing, traffic flow, or job assignment problems
