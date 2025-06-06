@@ -53,3 +53,11 @@ In this example:
 - Edges have associated capacities.
 
 ---
+
+## 🧪 How to Run the Application
+
+### ✅ Prerequisites
+
+- Java 8 or higher
+- IDE like **IntelliJ IDEA**, **Eclipse**, or **NetBeans**
+- Alternatively, a command-line JDK
