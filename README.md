@@ -67,6 +67,10 @@ In this example:
 
 ![image alt](https://github.com/Sachith-Piyathunga/Flow-Network/blob/72f4ff9fbd25835f53de13d3de6ba9601f054600/outputs/Bridge_1%20output.png)
 
+### Ladder_1 Output
+
+![image alt](https://github.com/Sachith-Piyathunga/Flow-Network/blob/eb5bd2683d9fad8f4dcd083310508cd77177b49f/outputs/Ladder_1%20output.png)
+
 ---
 
 ### 🔧 Technologies Used
