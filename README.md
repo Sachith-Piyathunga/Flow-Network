@@ -61,6 +61,14 @@ In this example:
 - Add this bottleneck to the flow and update both forward and backward (residual) edges.
 - Repeat until no augmenting path exists.
 
+---
+
+### Bridge_1 Output
+
+![image alt](https://github.com/Sachith-Piyathunga/Flow-Network/blob/72f4ff9fbd25835f53de13d3de6ba9601f054600/outputs/Bridge_1%20output.png)
+
+---
+
 ### 🔧 Technologies Used
 
 - Java – Core programming language
